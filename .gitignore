@@ -1,0 +1,15 @@
+# Scripts temporales
+*.ps1
+*.ps1.bak
+
+# Backups
+*.bak
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Sistema
+Thumbs.db
+Desktop.ini
